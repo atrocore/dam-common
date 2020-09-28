@@ -1,0 +1,6 @@
+{
+  "name": "atrocore/dam-common",
+  "require": {
+    "atrocore/core": "~1.0.0"
+  }
+}
